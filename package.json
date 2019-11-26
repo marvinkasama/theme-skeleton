@@ -1,0 +1,35 @@
+{
+  "name": "h5bs",
+  "private": "true",
+  "dependencies": {
+    "@babel/core": "^7.4.5",
+    "@babel/preset-env": "^7.4.5",
+    "gulp-cache": "^1.1.2",
+    "gulp-util": "^3.0.8",
+    "gulp-yaml": "^2.0.4",
+    "jquery": "^3.4.1",
+    "what-input": "^5.2.3"
+  },
+  "devDependencies": {
+    "babelify": "^10.0.0",
+    "browser-sync": "^2.18.2",
+    "browserify": "^16.2.3",
+    "del": "^4.1.1",
+    "gulp": "4.0.2",
+    "gulp-autoprefixer": "^6.1.0",
+    "gulp-babel": "^8.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-cssnano": "^2.1.2",
+    "gulp-gzip": "^1.4.0",
+    "gulp-modernizr": "^3.2.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^4.0.2",
+    "gulp-sass-glob": "^1.1.0",
+    "gulp-sourcemaps": "^2.6.5",
+    "gulp-tar": "^2.1.0",
+    "gulp-uglify": "^3.0.2",
+    "js-yaml": "^3.10.0",
+    "vinyl-buffer": "^1.0.0",
+    "vinyl-source-stream": "^2.0.0"
+  }
+}
